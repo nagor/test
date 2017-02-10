@@ -1,1 +1,1 @@
-Some new file in this big stuff
+console.log('hello');
